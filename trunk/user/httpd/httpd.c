@@ -150,6 +150,8 @@ const struct language_table language_tables[] = {
 	{"zh", "TW"},
 	{"zh-hk", "CN"},
 	{"zh-cn", "CN"},
+	{"vi-vi", "VI"},
+	{"vi-vi", "VI"},
 	{"ms", "MS"},
 	{"th", "TH"},
 	{"th-TH", "TH"},
